@@ -44,7 +44,7 @@ const Terms = ({ handleClose }) => {
                                         <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
                                     </li>
                                     <li>
-                                        <p><strong>Website</strong> refers to Code Station21, accessible from <a href="codestation21.com" rel="external nofollow noopener" target="_blank">codestation21.com</a></p>
+                                        <p><strong>Website</strong> refers to Code Station21, accessible from <a href="usuh.agency" rel="external nofollow noopener" target="_blank">usuh.agency</a></p>
                                     </li>
                                     <li>
                                         <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
@@ -97,7 +97,7 @@ const Terms = ({ handleClose }) => {
                                         <p>By email: <a href="/cdn-cgi/l/email-protection" className="__cf_email__" data-cfemail="8fe6e1e9e0cfece0ebeafcfbeefbe6e0e1bdbea1ece0e2">[email&#160;protected]</a></p>
                                     </li>
                                     <li>
-                                        <p>By visiting this page on our website: <a href="facebook.com/codestation21" rel="external nofollow noopener" target="_blank">facebook.com/codestation21</a></p>
+                                        <p>By visiting this page on our website: <a href="https://www.facebook.com/usuh.agency" rel="external nofollow noopener" target="_blank">https://www.facebook.com/usuh.agency</a></p>
                                     </li>
                                 </ul>
                             </div>

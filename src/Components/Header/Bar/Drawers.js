@@ -21,15 +21,24 @@ const Drawers = ({ toggleDrawer }) => {
     return (
         <Box>
             <Stack direction="row" sx={{ alignItems: "center" }}>
-                <Box sx={{ flex: 1, mt: "5px" }}>
-                    <Image src={Logo} width={200} height={30} alt="Logo" />
+                            <Box
+                    sx={{
+                        flex: 1,
+                        mt: "5px",
+                        fontSize: "20px",
+                        fontWeight: "bold",
+                        textAlign: "center",
+                        color: "#000",
+                    }}
+                >
+                    Usuh Agency
                 </Box>
                 <ButtonBase onClick={toggleDrawer(false)} sx={styles.CrossButton}>
                     <CloseRoundedIcon />
                 </ButtonBase>
             </Stack>
             <Typography variant="body1" component="p" sx={styles.Description}>
-                We are codestation21, a group of people passionate about solving problems with the power of code. We have more than 4+ professional experience in different domains and clients. Our problem-solving skills help us to create a great product for you. We are always available to help your dream projects come true.
+                We are Usuh Agency, a group of people passionate about solving problems with the power of code. We have more than 4+ professional experience in different domains and clients. Our problem-solving skills help us to create a great product for you. We are always available to help your dream projects come true.
             </Typography>
             <Box sx={styles.Navs}>
                 {Navs &&
@@ -65,10 +74,10 @@ const Drawers = ({ toggleDrawer }) => {
                     <EmailIcon />
                 </Box>
                 <Box>
-                    <Link href="mailto:info@codestation21.com">
+                    <Link href="mailto:info@usuh.agency">
                         <a>
                             <Typography variant="body1" component="p">
-                                info@codestation21.com
+                                info@usuh.agency
                             </Typography>
                         </a>
                     </Link>
@@ -89,28 +98,28 @@ const Drawers = ({ toggleDrawer }) => {
                 </Box>
             </Stack>
             <Stack direction="row" sx={styles.Social}>
-                <Link href="https://github.com/codestation21">
+                <Link href="https://github.com/chinbeis">
                     <a target="_blank">
                         <ButtonBase>
                             <GitHubIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-                <Link href="https://www.facebook.com/codestation21">
+                <Link href="https://www.facebook.com/.agency">
                     <a target="_blank">
                         <ButtonBase>
                             <FacebookIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-                <Link href="https://twitter.com/codestation21">
+                <Link href="https://twitter.com/">
                     <a target="_blank">
                         <ButtonBase>
                             <TwitterIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-                <Link href="https://behance.com/codestation21">
+                <Link href="https://behance.com">
                     <a target="_blank">
                         <ButtonBase>
                             <BehaceIcon />
