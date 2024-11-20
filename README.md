@@ -1,5 +1,8 @@
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100">
 
+/Users/chinbeis/frontEnd/realAgency/agency-portfolio/src/Components/Portfolio/Work.js
+/Users/chinbeis/frontEnd/realAgency/agency-portfolio/src/Assets/portfolio/work.png
+
 # Agency portfolio
 Agency portfolio is a static nextjs portfolio template build with nextjs, material-ui and designed for any digital agency. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations.
 

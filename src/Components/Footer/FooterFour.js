@@ -16,7 +16,7 @@ const FooterFour = () => {
                 Our Members
             </Typography>
             <Box>
-                <Grid container spacing={2}>
+                {/* <Grid container spacing={2}>
                     <Grid item xxs={6}>
                         <Box component="img" src={Gallery1} sx={styles.Image} alt="Gallery" />
                     </Grid>
@@ -29,7 +29,7 @@ const FooterFour = () => {
                     <Grid item xxs={6}>
                         <Box component="img" src={Gallery4} sx={styles.Image} alt="Gallery" />
                     </Grid>
-                </Grid>
+                </Grid> */}
             </Box>
         </Box>
     );

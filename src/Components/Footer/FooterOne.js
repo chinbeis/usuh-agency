@@ -21,7 +21,7 @@ const FooterOne = () => {
                 </Box>
                 <Box>
                     <Typography variant="body1" component="p">
-                        171/5, Borhanpur Lane, 6 Hazaribagh Road, Dhaka 1211
+                        Regis Place
                     </Typography>
                 </Box>
             </Stack>
@@ -47,7 +47,7 @@ const FooterOne = () => {
                     <Link href="tel:+8801552938771">
                         <a>
                             <Typography variant="body1" component="p">
-                                +880 1552-938771
+                                89395630
                             </Typography>
                         </a>
                     </Link>

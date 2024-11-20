@@ -29,7 +29,7 @@ const Terms = ({ handleClose }) => {
                                         <p><strong>Country</strong> refers to: Bangladesh</p>
                                     </li>
                                     <li>
-                                        <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Usuh Agency LLC, 171/5, Borhanpur Lane, 6 Hazaribagh Road, Dhaka 1211.</p>
+                                        <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Regis Place Agreement) refers to Usuh Agency LLC, .</p>
                                     </li>
                                     <li>
                                         <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
